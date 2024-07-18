@@ -1,4 +1,4 @@
-# Frontend Development Internship - README
+# Frontend Development Internship
 
 ## Overview
 This README file outlines the learning journey and activities completed during a 1-month internship in frontend development. The internship focused on gaining practical knowledge and hands-on experience with HTML, CSS, JavaScript, and PHP.
