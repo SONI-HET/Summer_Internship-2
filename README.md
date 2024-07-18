@@ -77,7 +77,7 @@ This README file outlines the learning journey and activities completed during a
 
 ### Day 3: Full-Stack Project
 - Started a full-stack project incorporating HTML, CSS, JavaScript, and PHP
-- Example: Simple blog platform
+- Project: Hotel Management System
 
 ### Day 4: Project Completion and Deployment
 - Completed and tested the full-stack project
